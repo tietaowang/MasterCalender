@@ -1,12 +1,10 @@
-#EChart
-A highly **extendable**, easy to use chart with **event handling**, **animation** supported. 
+#MasterCalender
+日历类app , 根据年份显示当前年的所有月 
 
 
-[![](https://dl.dropboxusercontent.com/s/d2yxmmqa4yjigbu/eColumn.gif)](https://dl.dropboxusercontent.com/s/d2yxmmqa4yjigbu/eColumn.gif)
+[![](https://github.com/tietaowang/MasterCalender/blob/master/1.png)
 
-[![](https://dl.dropboxusercontent.com/s/ehhscvf1m48v04h/eLine.gif)](https://dl.dropboxusercontent.com/s/ehhscvf1m48v04h/eLine.gif)
-
-[![](https://dl.dropboxusercontent.com/s/2we5ay0fv5jmc6y/ePie.gif)](https://dl.dropboxusercontent.com/s/2we5ay0fv5jmc6y/ePie.gif)
+[![](https://github.com/tietaowang/MasterCalender/blob/master/2.png)](https://github.com/tietaowang/MasterCalender/blob/master/1.png)
 
 
 ##Test
